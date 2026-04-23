@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "1",
+        "location_id": 4,
+        "location_name": "Bodhan",
+        "state_id": 2,
+        "state": "Telangana",
+        "country_name": "India"
+    },
+    {
+        "_id": "2",
+        "location_id": 4,
+        "location_name": "jankampet",
+        "state_id": 2,
+        "state": "Telangana",
+        "country_name": "India"
+    },
+    {
+        "_id": "4",
+        "location_id": 4,
+        "location_name": "yedapally",
+        "state_id": 2,
+        "state": "Telangana",
+        "country_name": "India"
+    },
+    {
+        "_id": "3",
+        "location_id": 4,
+        "location_name": "hyderabad",
+        "state_id": 2,
+        "state": "Telangana",
+        "country_name": "India"
+    },
+    {
+        "_id": "5",
+        "location_id": 4,
+        "location_name": "nizamabad",
+        "state_id": 2,
+        "state": "Telangana",
+        "country_name": "India"
+    }
+]
