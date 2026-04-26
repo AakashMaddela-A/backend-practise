@@ -1,0 +1,17 @@
+{
+    "name": "inbuilt",
+    "version": "1.0.0",
+    "description": "this is about static api",
+    "keywords": [
+        "developer",
+        "aakash"
+    ],
+    "license": "ISC",
+    "author": "developer aakash",
+    "type": "commonjs",
+    "main": "fs.js",
+    "scripts": {
+        "start": "node staticapi.js",
+        "dev": "nodemon http.js"
+    }
+}

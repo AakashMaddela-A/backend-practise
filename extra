@@ -1,0 +1,11 @@
+
+
+# npm i  -> all packages installaton
+
+# npm start   -> "start": "node staticapi.js",
+
+# npm run dev  ->  "dev": "node http.js"
+
+///step to install global package
+->open cmd as admin
+->npm i -g nodemon
