@@ -64,6 +64,13 @@ Nexes repo
 
 # npm run dev  ->  "dev": "node http.js"
 
+app.use(morgan("common"));  -> date and time route got hit
+app.use(morgan("dev")); -> route got hit
+app.use(morgan("common", { stream: fs.createWriteStream("./app.log") }));
+
+
+
+
 ///step to install global package
 ->open cmd as admin
 ->npm i -g nodemon
